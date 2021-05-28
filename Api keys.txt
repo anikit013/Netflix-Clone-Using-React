@@ -1,0 +1,13 @@
+API (v3 auth)
+708f9d03bf2620d7830117dc19b8fd4c
+
+Example API Request
+https://api.themoviedb.org/3/movie/550?api_key=708f9d03bf2620d7830117dc19b8fd4c
+
+
+
+API Read Access Token (v4 auth)
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3MDhmOWQwM2JmMjYyMGQ3ODMwMTE3ZGMxOWI4ZmQ0YyIsInN1YiI6IjYwYWJhYTEwOGM0NGI5MDA3OTJiMDJkNSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.hckC5l1bmRLvTkBYswztsiAVrmXvRVu_WBfDo2r-Q-k
+
+
+anikit secondary gmail used : tsunamininni@gmail.com
